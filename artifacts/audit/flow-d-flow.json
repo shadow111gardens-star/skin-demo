@@ -1,0 +1,28 @@
+{
+  "invoiceId": "invoice-423c79ee-3b95-49a6-8b4d-0ffbd1d8dc8f",
+  "balance": 200,
+  "status": "Partially paid",
+  "payments": [
+    {
+      "amount": 200,
+      "kind": "Refund",
+      "method": "Cash"
+    },
+    {
+      "amount": 1281,
+      "kind": "Receipt",
+      "method": "Cash"
+    },
+    {
+      "amount": 600,
+      "kind": "Receipt",
+      "method": "Cash"
+    }
+  ],
+  "printPages": 1,
+  "mobileWidth": {
+    "width": 320,
+    "scroll": 320
+  },
+  "errors": []
+}

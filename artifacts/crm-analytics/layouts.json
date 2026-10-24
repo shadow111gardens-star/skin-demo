@@ -1,0 +1,170 @@
+{
+  "layouts": [
+    {
+      "path": "/leads-enquiries",
+      "width": 1440,
+      "scroll": 1440,
+      "view": "board"
+    },
+    {
+      "tab": "Clinical Operations",
+      "width": 1440,
+      "scroll": 1440,
+      "svgCount": 2
+    },
+    {
+      "tab": "Financial Performance",
+      "width": 1440,
+      "scroll": 1440,
+      "svgCount": 2
+    },
+    {
+      "tab": "Resource Utilisation",
+      "width": 1440,
+      "scroll": 1440,
+      "svgCount": 2
+    },
+    {
+      "tab": "Patient Retention",
+      "width": 1440,
+      "scroll": 1440,
+      "svgCount": 2
+    },
+    {
+      "path": "/leads-enquiries",
+      "width": 1024,
+      "scroll": 1024,
+      "view": "board"
+    },
+    {
+      "tab": "Clinical Operations",
+      "width": 1024,
+      "scroll": 1024,
+      "svgCount": 2
+    },
+    {
+      "tab": "Financial Performance",
+      "width": 1024,
+      "scroll": 1024,
+      "svgCount": 2
+    },
+    {
+      "tab": "Resource Utilisation",
+      "width": 1024,
+      "scroll": 1024,
+      "svgCount": 2
+    },
+    {
+      "tab": "Patient Retention",
+      "width": 1024,
+      "scroll": 1024,
+      "svgCount": 2
+    },
+    {
+      "path": "/leads-enquiries",
+      "width": 768,
+      "scroll": 768,
+      "view": "list"
+    },
+    {
+      "tab": "Clinical Operations",
+      "width": 768,
+      "scroll": 768,
+      "svgCount": 2
+    },
+    {
+      "tab": "Financial Performance",
+      "width": 768,
+      "scroll": 768,
+      "svgCount": 2
+    },
+    {
+      "tab": "Resource Utilisation",
+      "width": 768,
+      "scroll": 768,
+      "svgCount": 2
+    },
+    {
+      "tab": "Patient Retention",
+      "width": 768,
+      "scroll": 768,
+      "svgCount": 2
+    },
+    {
+      "path": "/leads-enquiries",
+      "width": 390,
+      "scroll": 390,
+      "view": "list"
+    },
+    {
+      "tab": "Clinical Operations",
+      "width": 390,
+      "scroll": 390,
+      "svgCount": 2
+    },
+    {
+      "tab": "Financial Performance",
+      "width": 390,
+      "scroll": 390,
+      "svgCount": 2
+    },
+    {
+      "tab": "Resource Utilisation",
+      "width": 390,
+      "scroll": 390,
+      "svgCount": 2
+    },
+    {
+      "tab": "Patient Retention",
+      "width": 390,
+      "scroll": 390,
+      "svgCount": 2
+    },
+    {
+      "path": "/leads-enquiries",
+      "width": 320,
+      "scroll": 320,
+      "view": "list"
+    },
+    {
+      "tab": "Clinical Operations",
+      "width": 320,
+      "scroll": 320,
+      "svgCount": 2
+    },
+    {
+      "tab": "Financial Performance",
+      "width": 320,
+      "scroll": 320,
+      "svgCount": 2
+    },
+    {
+      "tab": "Resource Utilisation",
+      "width": 320,
+      "scroll": 320,
+      "svgCount": 2
+    },
+    {
+      "tab": "Patient Retention",
+      "width": 320,
+      "scroll": 320,
+      "svgCount": 2
+    },
+    {
+      "screen": "Lead drawer",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 320
+    },
+    {
+      "screen": "Conversion form",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        320,
+        296
+      ]
+    }
+  ],
+  "errors": []
+}

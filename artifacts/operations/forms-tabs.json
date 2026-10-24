@@ -1,0 +1,59 @@
+{
+  "layouts": [
+    {
+      "tab": "Overview",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "tab": "Schedule",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "tab": "Session History",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "tab": "Usage",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "tab": "Maintenance",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "tab": "Documents",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "form": "Create machine",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 296
+    },
+    {
+      "form": "Add inventory product",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 296
+    },
+    {
+      "form": "Create maintenance task",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 296
+    },
+    {
+      "form": "Create room",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 296
+    }
+  ],
+  "errors": []
+}

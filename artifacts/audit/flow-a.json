@@ -1,0 +1,38 @@
+{
+  "courseProgress": "5/6",
+  "packageRemaining": 1,
+  "completionEntries": 1,
+  "nextSitting": 6,
+  "nextParameters": "empty",
+  "patientLink": "passed",
+  "courseTimeline": "passed",
+  "mobileLayouts": [
+    {
+      "step": "1\nPreparation",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "step": "2\nDevice & parameters",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "step": "3\nProcedure record",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "step": "4\nReview & next steps",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "step": "device modal",
+      "width": 320,
+      "scroll": 320,
+      "modal": 320
+    }
+  ],
+  "pageErrors": []
+}

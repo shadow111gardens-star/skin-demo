@@ -1,0 +1,2242 @@
+{
+  "results": [
+    {
+      "route": "/dashboard",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    }
+  ],
+  "errors": []
+}

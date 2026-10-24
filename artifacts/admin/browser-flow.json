@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "Saved profile persists after reload",
+    "Role switch removes administration and finance actions and leaves nested settings",
+    "Keyboard search selects machine detail",
+    "Register Patient opens Register patient with context and no mobile viewport overflow",
+    "Book Appointment opens Book appointment with context and no mobile viewport overflow",
+    "Add Skin Scan opens Create skin scan with context and no mobile viewport overflow",
+    "Create Treatment Plan opens Create treatment plan with context and no mobile viewport overflow",
+    "Record Sitting opens Record sitting with context and no mobile viewport overflow",
+    "Schedule Follow-up opens Schedule follow-up with context and no mobile viewport overflow",
+    "Record Payment opens Record demo payment with context and no mobile viewport overflow",
+    "Staff creation form fits 320px"
+  ],
+  "errors": []
+}

@@ -1,0 +1,166 @@
+{
+  "layouts": [
+    {
+      "path": "/packages-billing",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/packages",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/invoices",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/invoices/new",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/invoices/packages-billing-2",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/payments",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "path": "/packages-billing",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/packages",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/invoices",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/invoices/new",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/invoices/packages-billing-2",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/payments",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "path": "/packages-billing",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/packages",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/invoices",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/invoices/new",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/invoices/packages-billing-2",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/payments",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "path": "/packages-billing",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/packages",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/invoices",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/invoices/new",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/invoices/packages-billing-2",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/payments",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "path": "/packages-billing",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "path": "/packages",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "path": "/invoices",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "path": "/invoices/new",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "path": "/invoices/packages-billing-2",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "path": "/payments",
+      "width": 320,
+      "scroll": 320
+    },
+    {
+      "form": "Payment",
+      "width": 320,
+      "scroll": 320,
+      "dialog": 296
+    },
+    {
+      "tab": "Patient balances",
+      "width": 320,
+      "scroll": 320
+    }
+  ],
+  "errors": []
+}

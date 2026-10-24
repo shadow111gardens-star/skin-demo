@@ -1,0 +1,899 @@
+﻿/* Connected sitting workspace, using the shared clinic tokens. */
+.session-workspace,
+.sessions-page {
+  min-width: 0;
+}
+.session-back {
+  margin-bottom: 18px;
+}
+.session-demo-note {
+  font-size: 12px;
+  color: var(--muted, var(--color-muted));
+  line-height: 1.6;
+  margin: 10px 0 18px;
+}
+.session-summary-chips,
+.session-metric-strip {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 18px 0 24px;
+}
+.session-summary-chips > *,
+.session-metric-strip > span {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--surface, #fff);
+  border: 1px solid var(--border, #e4e5db);
+  padding: 12px 17px;
+  border-radius: 10px;
+  font-size: 12px;
+}
+.session-metric-strip > span {
+  display: grid;
+  gap: 5px;
+  flex: 1;
+  min-width: 115px;
+}
+.session-metric-strip strong {
+  color: var(--text, #32382b);
+  font-size: 15px;
+}
+.session-metric-strip .unsaved strong {
+  color: #956518;
+}
+.session-queue-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 18px;
+}
+.session-queue-tabs button {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  padding: 10px 13px;
+  color: var(--muted, #686d60);
+  font-size: 12px;
+  cursor: pointer;
+}
+.session-queue-tabs button[aria-current],
+.session-queue-tabs button[aria-selected="true"] {
+  background: #e9eddc;
+  border-color: #d5dcc2;
+  color: #435331;
+}
+.session-queue-card {
+  padding: 0;
+  overflow: hidden;
+}
+.session-search-row {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding: 20px 22px 10px;
+}
+.session-search-row .search-field {
+  flex: 1;
+}
+.session-filters {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 12px;
+  padding: 8px 22px 20px;
+}
+.session-filters label {
+  display: grid;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--muted, #777);
+}
+.session-filters input,
+.session-filters select {
+  width: 100%;
+  min-width: 0;
+}
+.session-queue-head,
+.session-queue-row {
+  display: grid;
+  grid-template-columns: 1.35fr 1.3fr 1fr 1fr 0.85fr 65px;
+  gap: 17px;
+  align-items: center;
+  padding: 17px 22px;
+}
+.session-queue-head {
+  background: #f7f8f1;
+  border-top: 1px solid var(--border, #e4e5db);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+}
+.session-queue-row {
+  border-top: 1px solid var(--border, #e4e5db);
+  font-size: 12px;
+}
+.session-queue-row > div {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.session-queue-row small {
+  font-size: 10px;
+  color: var(--muted, #7a7c70);
+  line-height: 1.6;
+}
+.session-queue-row .patient-cell {
+  min-width: 0;
+  text-align: left;
+}
+.session-queue-row .patient-cell span:last-child {
+  min-width: 0;
+}
+.session-queue-row .patient-cell strong {
+  font-size: 12px;
+}
+.session-time {
+  letter-spacing: 0.02em;
+}
+.session-queue-row .button {
+  font-size: 11px;
+  padding: 8px;
+}
+.session-table-foot {
+  padding: 12px 22px;
+  color: var(--muted, #777);
+  font-size: 11px;
+}
+.session-workspace-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 290px;
+  gap: 22px;
+  align-items: start;
+}
+.session-primary {
+  min-width: 0;
+}
+.session-context {
+  display: grid;
+  gap: 16px;
+  position: sticky;
+  top: 90px;
+  max-height: calc(100vh - 110px);
+  overflow: auto;
+  scrollbar-width: thin;
+}
+.session-context > .card {
+  padding: 20px;
+}
+.session-context-identity {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.session-context-identity .patient-cell {
+  text-align: left;
+  min-width: 0;
+}
+.session-context-identity .patient-cell strong {
+  font-size: 13px;
+}
+.session-context-details {
+  display: grid;
+  gap: 12px;
+  margin: 17px 0 0;
+}
+.session-context-details > div {
+  display: grid;
+  gap: 5px;
+}
+.session-context-details dt {
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+.session-context-details dd {
+  font-size: 12px;
+  line-height: 1.65;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+.session-context h3 {
+  font-size: 13px;
+  margin: 0 0 14px;
+}
+.session-context p {
+  font-size: 12px;
+  color: #727769;
+  line-height: 1.7;
+}
+.session-warning,
+.session-routine {
+  padding: 13px 14px;
+  border-radius: 8px;
+  margin: 12px 0;
+  font-size: 12px;
+  line-height: 1.65;
+}
+.session-warning {
+  background: #fff4ed;
+  border: 1px solid #edcbb7;
+  color: #8e4c2a;
+}
+.session-warning.prominent {
+  display: flex;
+  gap: 12px;
+  background: #fff1ee;
+  border-color: #edc4bb;
+  color: #994b3b;
+}
+.session-warning p {
+  margin: 6px 0;
+  color: inherit;
+}
+.session-routine {
+  background: #f1f4ea;
+  color: #61714e;
+  border: 1px solid #e0e6d4;
+}
+.session-balance-chips {
+  display: flex;
+  gap: 10px;
+  margin: 18px 0;
+}
+.session-balance-chips span {
+  display: grid;
+  gap: 4px;
+  flex: 1;
+  text-align: center;
+  padding: 10px 4px;
+  background: #f5f6ef;
+  border-radius: 8px;
+  font-size: 10px;
+}
+.session-balance-chips strong {
+  font-size: 20px;
+  color: #536242;
+}
+.session-stepper {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 4px;
+  padding: 12px;
+  background: white;
+  border: 1px solid var(--border, #e5e7dc);
+  border-radius: 10px;
+  margin-bottom: 18px;
+}
+.session-stepper button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 5px;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  text-align: left;
+  color: var(--color-muted);
+  cursor: pointer;
+  font-size: 11px;
+  min-width: 0;
+}
+.session-stepper button > span {
+  width: 23px;
+  height: 23px;
+  flex-shrink: 0;
+  border: 1px solid #dfe3d5;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+}
+.session-stepper button[aria-current="step"] {
+  background: #eef2e5;
+  color: #4f603a;
+}
+.session-stepper button[aria-current="step"] > span {
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+}
+.session-primary .clinical-form-section {
+  margin-bottom: 18px;
+}
+.session-checkbox {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 10px !important;
+  line-height: 1.6;
+  font-size: 12px !important;
+  margin: 12px 0;
+}
+.session-checkbox input {
+  width: 16px !important;
+  height: 16px;
+  flex-shrink: 0;
+  margin-top: 2px;
+  accent-color: #758758;
+}
+.session-safety-checks {
+  margin-top: 18px;
+  padding-top: 8px;
+  border-top: 1px solid #e7eadf;
+}
+.session-panel-intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
+.session-panel-intro p {
+  font-size: 12px;
+  color: var(--color-muted);
+  line-height: 1.7;
+}
+.session-device-source {
+  font-size: 11px;
+  line-height: 1.7;
+  color: var(--color-muted);
+  margin: 15px 0;
+}
+.session-parameter-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.session-parameter-grid label {
+  display: grid;
+  gap: 8px;
+  font-size: 12px;
+}
+.session-parameter-grid label small {
+  font-size: 10px;
+  color: var(--color-muted);
+}
+.session-approval-fields {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e8dd;
+}
+.session-compare-button {
+  margin-top: 15px;
+}
+.session-upload-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 20px;
+}
+.session-upload-label {
+  display: grid;
+  gap: 12px;
+  padding: 18px;
+  border: 1px dashed #d2dac2;
+  border-radius: 8px;
+  font-size: 12px;
+}
+.session-upload-label input {
+  max-width: 100%;
+  font-size: 11px;
+}
+.session-image-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+.session-image-list article {
+  border: 1px solid #e2e7d7;
+  border-radius: 8px;
+  padding: 10px;
+  min-width: 0;
+}
+.session-image-list img {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  background: #f7f8f2;
+}
+.session-image-list button {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+.session-review-label {
+  display: grid;
+  gap: 9px;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+.session-audit {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 390px;
+  overflow: auto;
+}
+.session-audit li {
+  padding: 15px 0;
+  border-bottom: 1px solid #e9ecdf;
+  display: grid;
+  gap: 7px;
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+.session-audit small {
+  font-size: 10px;
+  color: var(--color-muted);
+}
+.session-audit p {
+  margin: 0;
+  color: #727867;
+  line-height: 1.6;
+}
+.session-completion-receipt {
+  margin-top: 15px;
+  padding: 18px;
+  background: #eff5e7;
+  border: 1px solid #d7e4c8;
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.session-primary-actions {
+  position: sticky;
+  bottom: 14px;
+  z-index: 6;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.97);
+  box-shadow: 0 4px 28px #35442512;
+  border: 1px solid #dfe5d3;
+  padding: 14px;
+  border-radius: 11px;
+  margin-top: 18px;
+}
+.session-primary-actions .button {
+  font-size: 11px;
+  padding: 10px 12px;
+}
+.session-primary-actions > span {
+  font-size: 11px;
+  color: var(--color-muted);
+  margin-right: auto;
+}
+.session-danger-text {
+  color: #ac5c47 !important;
+}
+.session-config-modal {
+  max-width: 800px;
+}
+.device-config-fields {
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+}
+.device-config-fields > div {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr auto auto;
+  gap: 10px;
+  align-items: end;
+  padding: 14px;
+  border: 1px solid #e0e6d6;
+  border-radius: 8px;
+}
+.device-config-fields label {
+  min-width: 0;
+}
+.device-config-fields input,
+.device-config-fields select {
+  min-width: 0;
+  width: 100%;
+}
+.session-comparison-heading {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+.session-parameter-comparison > div {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr;
+  gap: 12px;
+  padding: 13px 0;
+  border-bottom: 1px solid #e5e9dd;
+  font-size: 12px;
+}
+.session-parameter-comparison small {
+  color: var(--color-muted);
+}
+.session-compare-modal {
+  max-width: 740px;
+}
+@media (min-width: 1600px) {
+  .session-workspace-grid {
+    grid-template-columns: minmax(0, 1fr) 330px;
+  }
+}
+@media (max-width: 1150px) {
+  .session-workspace-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .session-context {
+    position: static;
+    max-height: none;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    overflow: visible;
+  }
+  .session-context > .card {
+    padding: 15px;
+  }
+  .session-queue-head,
+  .session-queue-row {
+    gap: 10px;
+    padding: 15px;
+  }
+  .session-queue-row .patient-cell .avatar {
+    display: none;
+  }
+  .session-filters {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 700px) {
+  .session-context {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .session-workspace-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .session-context {
+    order: -1;
+    width: 100%;
+  }
+  .session-context > .session-previous-context {
+    display: none;
+  }
+  .session-context-details {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .session-context-details dd {
+    font-size: 11px;
+  }
+  .session-primary {
+    width: 100%;
+  }
+  .session-queue-tabs {
+    gap: 3px;
+  }
+  .session-queue-tabs button {
+    padding: 9px 10px;
+    font-size: 11px;
+  }
+  .session-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 10px 14px 18px;
+  }
+  .session-search-row {
+    padding: 15px 14px 8px;
+    gap: 9px;
+  }
+  .session-queue-head {
+    display: none;
+  }
+  .session-queue-row {
+    grid-template-columns: 1fr 1fr;
+    padding: 18px 14px;
+    gap: 15px;
+  }
+  .session-queue-row > div:first-child {
+    grid-column: 1/-1;
+  }
+  .session-queue-row > div:last-child {
+    grid-column: 1/-1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .session-queue-row .patient-cell .avatar {
+    display: flex;
+  }
+  .session-queue-row .patient-cell strong {
+    font-size: 14px;
+  }
+  .session-stepper {
+    padding: 8px;
+    gap: 2px;
+    position: sticky;
+    top: 62px;
+    z-index: 5;
+  }
+  .session-stepper button {
+    flex-direction: column;
+    gap: 6px;
+    text-align: center;
+    font-size: 9px;
+    padding: 7px 2px;
+  }
+  .session-stepper button strong {
+    overflow-wrap: anywhere;
+  }
+  .session-primary-actions {
+    bottom: 80px;
+    padding: 10px;
+    gap: 6px;
+  }
+  .session-primary-actions .button {
+    flex: 1;
+    min-width: 100px;
+    white-space: normal;
+    line-height: 1.5;
+  }
+  .session-primary-actions > span {
+    width: 100%;
+  }
+  .session-panel-intro {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .session-parameter-grid,
+  .session-upload-columns {
+    grid-template-columns: 1fr;
+  }
+  .session-metric-strip {
+    gap: 8px;
+  }
+  .session-metric-strip > span {
+    min-width: 100px;
+    padding: 10px;
+  }
+  .session-metric-strip strong {
+    font-size: 13px;
+  }
+  .session-summary-chips {
+    gap: 7px;
+  }
+  .session-summary-chips > * {
+    font-size: 11px;
+    padding: 10px;
+  }
+  .device-config-fields > div {
+    grid-template-columns: 1fr 1fr;
+  }
+  .device-config-fields > div > label:first-child {
+    grid-column: 1/-1;
+  }
+  .session-config-modal,
+  .session-action-modal,
+  .session-compare-modal {
+    width: 100% !important;
+    max-width: 100% !important;
+    max-height: 100dvh !important;
+    min-height: 100dvh;
+    border-radius: 0 !important;
+    margin: 0 !important;
+  }
+  .session-config-modal .form-actions,
+  .session-action-modal .form-actions {
+    flex-wrap: wrap;
+  }
+  .session-parameter-comparison > div {
+    grid-template-columns: 1fr 1fr;
+    font-size: 11px;
+  }
+  .session-parameter-comparison > div > strong:first-child {
+    grid-column: 1/-1;
+  }
+  .session-comparison-heading {
+    font-size: 11px;
+    gap: 12px;
+  }
+  .session-workspace .heading-actions {
+    flex-wrap: wrap;
+  }
+  .session-workspace .clinical-fields {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .session-upload-label input {
+    width: 100%;
+  }
+  .session-context-details dd,
+  .session-warning,
+  .session-routine {
+    overflow-wrap: anywhere;
+  }
+}
+
+.session-device-source {
+  display: grid;
+  gap: 4px;
+}
+.session-parameter-grid label > div {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+.session-parameter-grid input {
+  min-width: 0;
+  width: 100%;
+}
+.session-parameter-grid label > div > span {
+  font-size: 11px;
+  min-width: 35px;
+  color: var(--color-muted);
+}
+
+@media (max-width: 700px) {
+  .session-course-context .session-balance-chips {
+    margin: 10px 0;
+  }
+  .session-context .session-course-context {
+    display: block;
+    padding: 14px;
+  }
+  .session-course-context h3 {
+    margin-bottom: 7px;
+  }
+  .session-course-context p {
+    margin: 7px 0;
+  }
+  .session-course-context > .text-button {
+    font-size: 12px;
+  }
+  .session-workspace-grid .session-context {
+    gap: 10px;
+  }
+}
+
+.session-queue-row .patient-cell strong,
+.session-queue-row .patient-cell small,
+.session-context .patient-cell strong,
+.session-context .patient-cell small {
+  display: block;
+}
+.session-primary-actions > span {
+  display: grid;
+  gap: 5px;
+}
+.session-context > .card {
+  min-width: 0;
+}
+.session-context .button {
+  white-space: normal;
+  max-width: 100%;
+  line-height: 1.6;
+}
+.session-course-context > small {
+  display: block;
+  margin: 7px 0;
+  overflow-wrap: anywhere;
+}
+.session-context-toggle {
+  display: none;
+}
+.session-workspace .clinical-form-section + .clinical-form-section {
+  margin-top: 18px;
+}
+.session-search-row > span {
+  font-size: 11px;
+  white-space: nowrap;
+}
+.session-search-row > .text-button {
+  font-size: 11px;
+}
+.session-queue-row .patient-cell {
+  padding: 0;
+}
+.session-queue-row .button {
+  width: 100%;
+}
+.session-primary-actions small {
+  color: var(--color-muted);
+}
+.session-workspace .session-safety-checks {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+@media (max-width: 700px) {
+  .session-context-toggle {
+    display: flex;
+    font-size: 11px;
+    margin-top: 10px;
+  }
+  .session-context-details:not(.expanded)
+    > div:not(:first-child):not(:last-child) {
+    display: none;
+  }
+  .session-context-details.expanded {
+    grid-template-columns: 1fr;
+  }
+  .session-search-row {
+    flex-wrap: wrap;
+  }
+  .session-search-row .search-field {
+    flex: 1 0 100%;
+  }
+  .session-search-row > .text-button {
+    margin-left: auto;
+  }
+  .session-queue-row .patient-cell strong {
+    font-size: 13px;
+  }
+  .session-context-identity {
+    margin-bottom: 10px;
+  }
+  .session-context .session-warning,
+  .session-context .session-routine {
+    font-size: 11px;
+    padding: 10px;
+  }
+  .session-primary .clinical-form-section {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 700px) {
+  .overlay:has(> .session-config-modal),
+  .overlay:has(> .session-action-modal),
+  .overlay:has(> .session-compare-modal) {
+    padding: 0;
+    align-items: stretch;
+  }
+  .session-config-modal.modal,
+  .session-action-modal.modal,
+  .session-compare-modal.modal {
+    width: 100vw !important;
+    padding: 18px;
+    height: 100dvh;
+    min-height: 100dvh !important;
+    max-height: 100dvh !important;
+    overflow: auto;
+  }
+  .session-config-modal.modal > header,
+  .session-action-modal.modal > header,
+  .session-compare-modal.modal > header {
+    position: sticky;
+    top: -18px;
+    z-index: 2;
+    background: white;
+    padding: 14px 0;
+  }
+  .session-config-modal .form-actions,
+  .session-action-modal .form-actions {
+    position: sticky;
+    bottom: -18px;
+    z-index: 2;
+    background: white;
+    padding: 15px 0;
+  }
+}
+
+.session-queue-row .patient-cell strong,
+.session-context-identity .patient-cell strong {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.session-parameter-grid label > div > span {
+  max-width: 40%;
+  overflow-wrap: anywhere;
+}
+.session-image-list article > button:first-child {
+  border: 0;
+  padding: 0;
+  display: block;
+  width: 100%;
+  background: #f7f8f2;
+}
+.session-image-list article > small {
+  display: block;
+  overflow-wrap: anywhere;
+  margin: 8px 0;
+}

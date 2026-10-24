@@ -1,0 +1,11 @@
+{
+  "patientId": "MM-123B3411",
+  "appointmentId": "APT-183bb705",
+  "conflictBlocked": true,
+  "maintenanceBlocked": true,
+  "restoredSelectable": true,
+  "rescheduledSameId": true,
+  "packageCountsUnchanged": true,
+  "persistedAfterReload": true,
+  "errors": []
+}

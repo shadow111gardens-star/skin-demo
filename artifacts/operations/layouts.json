@@ -1,0 +1,250 @@
+{
+  "layouts": [
+    {
+      "path": "/machines-equipment",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment/machines-equipment-1",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "path": "/maintenance",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "path": "/rooms-resources",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "path": "/inventory",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment/machines-equipment-1",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "path": "/maintenance",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "path": "/rooms-resources",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "path": "/inventory",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment/machines-equipment-1",
+      "width": 768,
+      "scroll": 768,
+      "overflow": [
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/maintenance",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "path": "/rooms-resources",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "path": "/inventory",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "path": "/machines-equipment",
+      "width": 390,
+      "scroll": 390,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/machines-equipment/machines-equipment-1",
+      "width": 390,
+      "scroll": 390,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/maintenance",
+      "width": 390,
+      "scroll": 390,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/rooms-resources",
+      "width": 390,
+      "scroll": 390,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/inventory",
+      "width": 390,
+      "scroll": 390,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/machines-equipment",
+      "width": 320,
+      "scroll": 320,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/machines-equipment/machines-equipment-1",
+      "width": 320,
+      "scroll": 320,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/maintenance",
+      "width": 320,
+      "scroll": 320,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/rooms-resources",
+      "width": 320,
+      "scroll": 320,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    },
+    {
+      "path": "/inventory",
+      "width": 320,
+      "scroll": 320,
+      "overflow": [
+        {
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "tag": "A",
+          "cls": ""
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

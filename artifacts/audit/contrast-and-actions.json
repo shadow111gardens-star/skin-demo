@@ -1,0 +1,67 @@
+[
+  {
+    "route": "/dashboard",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/patients",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/skin-analysis/skin-analysis-1",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/treatment-plans",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/sittings-sessions/SESSION-APT-206",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/appointments",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/clinical-documents",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/machines-equipment",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/inventory",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/packages-billing",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/reports-analytics",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/staff-roles",
+    "failures": [],
+    "inert": []
+  },
+  {
+    "route": "/clinic-settings",
+    "failures": [],
+    "inert": []
+  }
+]

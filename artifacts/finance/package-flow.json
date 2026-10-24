@@ -1,0 +1,10 @@
+{
+  "courseId": "course-proposal-MM-1043",
+  "patientId": "MM-1043",
+  "packageId": "package-treatment-2",
+  "price": 6700,
+  "sessions": 4,
+  "voidState": "Void",
+  "newTaxRate": 5,
+  "errors": []
+}

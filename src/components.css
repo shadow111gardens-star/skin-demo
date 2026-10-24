@@ -1,0 +1,45 @@
+﻿/* Shared interaction and layout primitives. Feature styles describe content layout. */
+.card, .modal, .drawer, .popover { background: var(--color-surface); }
+.card { border-color: var(--color-border); border-radius: var(--radius-card); box-shadow: var(--shadow-card); }
+.app .button, .login-page .button { min-height: 40px; font-size: 12px; border-radius: var(--radius-control); white-space: normal; }
+.button:not(.primary):not(.danger):not(.text-button) { border: 1px solid var(--color-border); background: var(--color-surface); color: var(--color-ink); }
+button > svg { flex-shrink: 0; }
+button:disabled { opacity: .58; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, [tabindex]:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 3px; }
+.page-heading { flex-wrap: wrap; }
+.page-heading > div { min-width: 0; }
+.page-heading h1, .modal h2, .drawer h2 { overflow-wrap: anywhere; }
+.page-heading p { font-size: 12px; line-height: 1.65; color: var(--color-muted); }
+.app :is(input, select, textarea) { border-radius: var(--radius-control); }
+:is(.form-grid, .operations-form, .admin-form-fields) > label { margin: 0; }
+.badge[data-tone] { font-size: var(--font-caption); line-height: 1.45; white-space: normal; color: var(--color-success); background: var(--color-sage-soft); }
+.badge[data-tone="neutral"] { color: var(--color-muted); background: #eef0ec; }
+.badge[data-tone="warning"] { color: var(--color-warning); background: var(--color-warning-soft); }
+.badge[data-tone="danger"] { color: var(--color-danger); background: var(--color-danger-soft); }
+.badge[data-tone="info"] { color: var(--color-info); background: var(--color-info-soft); }
+.modal, .drawer { overscroll-behavior: contain; max-height: calc(100dvh - 32px); }
+.modal { overflow-wrap: anywhere; }
+.modal > header { gap: 16px; }
+.modal > header > .icon, .drawer > header > .icon { flex-shrink: 0; width: 40px; height: 40px; }
+.modal :is(input, select, textarea) { max-width: 100%; }
+.app :is(td, dd) { overflow-wrap: anywhere; }
+.skip-link { position: fixed; left: 16px; top: -100px; padding: 12px 16px; z-index: 300; background: var(--color-surface); border: 2px solid var(--color-primary); border-radius: var(--radius-control); }
+.skip-link:focus { top: 12px; }
+#main-content { scroll-margin-top: 80px; }
+@media (max-width: 1024px) {
+  .app :is(button, input:not([type="checkbox"]):not([type="radio"]), select), .login-page :is(button, input:not([type="checkbox"]), select), .modal :is(button, input:not([type="checkbox"]):not([type="radio"]), select) { min-height: 44px; }
+  .app :is(button.icon, button.profile, .mobile-close), .modal > header > .icon { min-width: 44px; min-height: 44px; }
+  .app :is(input:not([type="checkbox"]):not([type="radio"]), select, textarea) { font-size: 13px; }
+  .app :is(.text-button, .text-link, .row-action, .operations-links a) { min-height: 44px; display: inline-flex; align-items: center; }
+  label:has(> input[type="checkbox"]), label:has(> input[type="radio"]) { min-height: 44px; }
+}
+@media (max-width: 600px) {
+  .modal, .drawer { max-height: 100dvh; }
+  main { padding-bottom: calc(80px + env(safe-area-inset-bottom)); }
+  .page-heading > .operations-actions { width: 100%; flex-wrap: wrap; }
+  .page-heading > .operations-actions > .button { flex: 1 1 auto; }
+  .app :is(input:not([type="checkbox"]):not([type="radio"]), select, textarea), .modal :is(input:not([type="checkbox"]):not([type="radio"]), select, textarea) { font-size: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}

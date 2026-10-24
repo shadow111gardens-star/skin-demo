@@ -1,0 +1,53 @@
+{
+  "machine": "Available",
+  "quantity": 27,
+  "movements": [
+    {
+      "id": "6d099b00-31fc-4b43-90d2-aa3835bf130d",
+      "productId": "inventory-2",
+      "type": "Session usage",
+      "quantity": 2,
+      "reason": "Fictional browser Session usage",
+      "actor": "Demo clinic operator",
+      "sessionId": "sittings-sessions-1",
+      "at": "2026-10-24T06:05:00.614Z",
+      "before": 29,
+      "after": 27,
+      "patientId": "MM-1041"
+    },
+    {
+      "id": "06226284-bf32-4dba-825d-1c4a0c1c8085",
+      "productId": "inventory-2",
+      "type": "Stock out",
+      "quantity": 1,
+      "reason": "Fictional browser Stock out",
+      "actor": "Demo clinic operator",
+      "at": "2026-10-24T06:05:00.330Z",
+      "before": 30,
+      "after": 29
+    },
+    {
+      "id": "545254ee-8606-4d92-ab17-f870734c0937",
+      "productId": "inventory-2",
+      "type": "Stock in",
+      "quantity": 2,
+      "reason": "Fictional browser Stock in",
+      "actor": "Demo clinic operator",
+      "at": "2026-10-24T06:05:00.097Z",
+      "before": 28,
+      "after": 30
+    },
+    {
+      "id": "opening-inventory-2",
+      "productId": "inventory-2",
+      "at": "2026-10-23T08:00:00+05:30",
+      "type": "Opening",
+      "quantity": 28,
+      "before": 0,
+      "after": 28,
+      "reason": "Fictional opening stock; not a live inventory import",
+      "actor": "Demo clinic operations"
+    }
+  ],
+  "errors": []
+}

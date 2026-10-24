@@ -1,0 +1,545 @@
+{
+  "layouts": [
+    {
+      "screen": "Clinic Profile",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Treatments",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Treatment Intervals",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Session Parameter Schemas",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Machines",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Rooms",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Appointment Durations",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Package Validity",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Reminder Templates",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Consent Templates",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Currency",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Tax Configuration",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Notification Preferences",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "staff-roles",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "integrations",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Search workspace",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Notifications",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Quick create",
+      "width": 1440,
+      "scroll": 1440,
+      "overflow": []
+    },
+    {
+      "screen": "Clinic Profile",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Treatments",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Treatment Intervals",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Session Parameter Schemas",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Machines",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Rooms",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Appointment Durations",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Package Validity",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Reminder Templates",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Consent Templates",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Currency",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Tax Configuration",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Notification Preferences",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "staff-roles",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "integrations",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Search workspace",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Notifications",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Quick create",
+      "width": 1024,
+      "scroll": 1024,
+      "overflow": []
+    },
+    {
+      "screen": "Clinic Profile",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Treatments",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Treatment Intervals",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Session Parameter Schemas",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Machines",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Rooms",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Appointment Durations",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Package Validity",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Reminder Templates",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Consent Templates",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Currency",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Tax Configuration",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Notification Preferences",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "staff-roles",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "integrations",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Search workspace",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Notifications",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Quick create",
+      "width": 768,
+      "scroll": 768,
+      "overflow": []
+    },
+    {
+      "screen": "Clinic Profile",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Treatments",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Treatment Intervals",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Session Parameter Schemas",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Machines",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Rooms",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Appointment Durations",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Package Validity",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Reminder Templates",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Consent Templates",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Currency",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Tax Configuration",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Notification Preferences",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "staff-roles",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "integrations",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Search workspace",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Notifications",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Quick create",
+      "width": 390,
+      "scroll": 390,
+      "overflow": []
+    },
+    {
+      "screen": "Clinic Profile",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Treatments",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Treatment Intervals",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Session Parameter Schemas",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Machines",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Rooms",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Appointment Durations",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Package Validity",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Reminder Templates",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Consent Templates",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Currency",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Tax Configuration",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Notification Preferences",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "staff-roles",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "integrations",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Search workspace",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Notifications",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    },
+    {
+      "screen": "Quick create",
+      "width": 320,
+      "scroll": 320,
+      "overflow": []
+    }
+  ],
+  "errors": []
+}

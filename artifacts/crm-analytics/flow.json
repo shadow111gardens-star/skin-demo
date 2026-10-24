@@ -1,0 +1,13 @@
+{
+  "patientCount": 7,
+  "existingPatientReused": "MM-1042",
+  "newPatientLinked": "MM-55EE29D3",
+  "stage": "Follow-up Required",
+  "contactCount": 1,
+  "collections": "Collections received (net)\n₹42,000\nPrevious: ₹0\nView source records ↗",
+  "downloadName": "mmverse-financial-performance-2026-10-17-2026-10-23.csv",
+  "csvBytes": 5323,
+  "barClickOpened": "Completed · Source records",
+  "emptyRange": true,
+  "errors": []
+}

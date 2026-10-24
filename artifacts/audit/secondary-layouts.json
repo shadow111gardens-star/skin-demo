@@ -1,0 +1,3101 @@
+{
+  "checks": [
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 740,
+          "scroll": 740,
+          "client": 740,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 760,
+          "scroll": 760,
+          "client": 760,
+          "height": 560.6875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 1000,
+          "scroll": 1000,
+          "client": 1000,
+          "height": 842.21875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 1150,
+          "scroll": 1150,
+          "client": 1150,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 453.78125
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 711.296875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 740,
+          "scroll": 740,
+          "client": 740,
+          "height": 816.0625
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Search workspace",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 762.1875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Notifications",
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 740,
+          "scroll": 740,
+          "client": 740,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 760,
+          "scroll": 760,
+          "client": 760,
+          "height": 576.6875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 983.03125,
+          "scroll": 983,
+          "client": 983,
+          "height": 868.21875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 983.03125,
+          "scroll": 983,
+          "client": 983,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 473.78125
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 727.296875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 740,
+          "scroll": 740,
+          "client": 740,
+          "height": 830.0625
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Search workspace",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 766.1875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Notifications",
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 728,
+          "scroll": 728,
+          "client": 728,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 728,
+          "scroll": 728,
+          "client": 728,
+          "height": 576.6875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 728,
+          "scroll": 728,
+          "client": 728,
+          "height": 868.21875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 728,
+          "scroll": 728,
+          "client": 728,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 473.78125
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 470,
+          "scroll": 470,
+          "client": 470,
+          "height": 727.296875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 728,
+          "scroll": 728,
+          "client": 728,
+          "height": 830.0625
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Search workspace",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 766.1875
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Notifications",
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 620,
+          "scroll": 620,
+          "client": 620,
+          "height": 918
+        }
+      ],
+      "bottomNav": 0
+    },
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 839.375
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 366,
+          "scroll": 366,
+          "client": 366,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 366,
+          "scroll": 366,
+          "client": 366,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 366,
+          "scroll": 366,
+          "client": 366,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Search workspace",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Notifications",
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 390,
+          "scroll": 390,
+          "client": 390,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 839.375
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 336,
+          "scroll": 336,
+          "client": 336,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 336,
+          "scroll": 336,
+          "client": 336,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 336,
+          "scroll": 336,
+          "client": 336,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Search workspace",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Notifications",
+      "width": 360,
+      "scroll": 360,
+      "dialogs": [
+        {
+          "width": 360,
+          "scroll": 360,
+          "client": 360,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Overview",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Clinical History",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Skin Analysis",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Treatment Courses",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Sessions",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Photos",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Appointments",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Consents & Documents",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Packages & Payments",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Patient profile sections: Activity",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Overview",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Schedule",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Session History",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Usage",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Maintenance",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Machine sections: Documents",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Day",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Week",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Month",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Calendar view: Agenda",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Plans 5",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Plans and courses: Courses 3",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Today",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Upcoming",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: In Progress",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Awaiting Review",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Completed",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: Cancelled",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Session views: No-show",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Today1",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Due Soon2",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Overdue2",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Missed Appointment0",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Post-treatment Review2",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Reaction Requiring Review0",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Package Nearing Expiry0",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Course Completion1",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Follow-up categories: Inactive Patient0",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Clinical Operations",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Financial Performance",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Resource Utilisation",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Analytics categories: Patient Retention",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Clinic Profile",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatments",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Treatment Intervals",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Session Parameter Schemas",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Machines",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Rooms",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Appointment Durations",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Package Validity",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Reminder Templates",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Consent Templates",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Currency",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Tax Configuration",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Settings: Notification Preferences",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Register Patient",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Book Appointment",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 839.375
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Add Skin Scan",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 296,
+          "scroll": 296,
+          "client": 296,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Create Treatment Plan",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 296,
+          "scroll": 296,
+          "client": 296,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Sitting",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Schedule Follow-up",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Quick create: Record Payment",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 296,
+          "scroll": 296,
+          "client": 296,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Search workspace",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Notifications",
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 320,
+          "scroll": 320,
+          "client": 320,
+          "height": 950
+        }
+      ],
+      "bottomNav": 887
+    },
+    {
+      "screen": "Login",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "screen": "Login",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "screen": "Login",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "screen": "Login",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "screen": "Login",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "screen": "Login",
+      "width": 320,
+      "scroll": 320
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,7830 @@
+{
+  "results": [
+    {
+      "route": "/dashboard",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/consultations",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/appointments",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/follow-ups",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/maintenance",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/inventory",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages-billing",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/packages",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/payments",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/new",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/staff-roles",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/integrations",
+      "width": 1024,
+      "scroll": 1024,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Book appointment",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Previous day",
+          "height": 25,
+          "class": "icon"
+        },
+        {
+          "name": "Dashboard date",
+          "height": 31,
+          "class": ""
+        },
+        {
+          "name": "Next day",
+          "height": 25,
+          "class": "icon"
+        },
+        {
+          "name": "Full schedule",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Search treatment queue",
+          "height": 26,
+          "class": ""
+        },
+        {
+          "name": "Queue status",
+          "height": 28,
+          "class": ""
+        },
+        {
+          "name": "Queue treatment",
+          "height": 28,
+          "class": ""
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 28,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/patients",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Register patient",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search patients",
+          "height": 31,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 31,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patient status",
+          "height": 33,
+          "class": ""
+        },
+        {
+          "name": "Patient treatment",
+          "height": 33,
+          "class": ""
+        },
+        {
+          "name": "Assigned doctor filter",
+          "height": 33,
+          "class": ""
+        },
+        {
+          "name": "Next visit filter",
+          "height": 33,
+          "class": ""
+        },
+        {
+          "name": "Sort patients",
+          "height": 33,
+          "class": ""
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 · 29 years",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Patient directory",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Edit details",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Archive patient",
+          "height": 35,
+          "class": "icon"
+        },
+        {
+          "name": "Book appointment",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Start consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Add skin scan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Create treatment plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Record sitting",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Schedule follow-up",
+          "height": 35,
+          "class": "button secondary"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Compare scans",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "New scan",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search scan library",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Scan patient filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date from",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date to",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "RM\nRohan Mehta\nMM-1042",
+          "height": 32,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Register patient",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Demo analysis machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Capture area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Continue",
+          "height": 36,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Scan library",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Compare scans",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Doctor review",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 · 29 years · Dr. Aditi Sh",
+          "height": 36,
+          "class": "patient-cell"
+        },
+        {
+          "name": "Open review",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Back to report",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Cancel",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Save review notes",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Open full report",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "View linked course",
+          "height": 13,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "← Scan library",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Comparison patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Comparison area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Baseline scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Follow-up scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Image view\nFront\nLeft oblique\nRight oblique\nDetail",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Open Ananya Sharma’s profile ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Open source report ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Open source report ↗",
+          "height": 13,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/consultations",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "New consultation",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search consultations",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Status\nAll\nDraft\nAwaiting Review\nReviewed",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 26,
+          "class": "text-button"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "New treatment",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatments",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Category\nAll\nLaser\nSkin concerns\nPeels\nFacial care",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Status\nActive\nInactive\nAll",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 26,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "New treatment plan",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatment plans",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Plan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 26,
+          "class": "text-button"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "← All treatment courses",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Pause",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Cancel course",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Complete course",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Book next sitting",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 | 29 years",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Clinic checks",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Open / prepare sitting",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Today",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Upcoming",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "In Progress",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Awaiting Review",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Completed",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Cancelled",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "No-show",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Session queue",
+          "height": 13,
+          "class": "text-button session-back"
+        },
+        {
+          "name": "Reschedule",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patient ID",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session number",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session treatment area",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Handpiece",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session operator",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/appointments",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Add walk-in",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Book appointment",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Previous calendar period",
+          "height": 28,
+          "class": "icon"
+        },
+        {
+          "name": "Next calendar period",
+          "height": 28,
+          "class": "icon"
+        },
+        {
+          "name": "Today",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Schedule date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Day",
+          "height": 32,
+          "class": ""
+        },
+        {
+          "name": "Week",
+          "height": 32,
+          "class": ""
+        },
+        {
+          "name": "Month",
+          "height": 32,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/follow-ups",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Follow-up reference date",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Search follow-ups",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Assigned employee filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Follow-up outcome filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Sort follow-ups",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Open follow-up follow-ups-2",
+          "height": 35,
+          "class": "button secondary"
+        }
+      ]
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Export",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Add record",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search Clinical Documents",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ Add machine",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Dermapen 4",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "HydraFacial Elite",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Cryo Comfort",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Lumina IPL",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "Soprano ICE Platinum",
+          "height": 19,
+          "class": "text-link"
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Overview",
+          "height": 36,
+          "class": "active"
+        },
+        {
+          "name": "Schedule",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session History",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Usage",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Maintenance",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Documents",
+          "height": 36,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/maintenance",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ Create maintenance task",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/inventory",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ Add room",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/packages-billing",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/packages",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Package catalogue",
+          "height": 36,
+          "class": "active"
+        },
+        {
+          "name": "Patient package balances",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/payments",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/invoices/new",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ Add line item",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Remove line 1",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Invoice tax label 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax rate 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "+ Add invoice tax",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Invoice discount",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Save draft",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Issue invoice",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Record refund",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ New enquiry",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Export visible CSV",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "View records for Completed sessions",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View records for Cancellations",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View records for No-shows",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View records for Previous completed sessions",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "Show chart values",
+          "height": 33,
+          "class": "analytics-data-toggle"
+        },
+        {
+          "name": "View records for Completed",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View records for Confirmed",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View records for Checked in",
+          "height": 30,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/staff-roles",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "+ Add staff member",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset filters",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit staff",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Reset demo records",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Save Changes",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Reset to defaults",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/integrations",
+      "width": 768,
+      "scroll": 768,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Collapse sidebar",
+          "height": 30,
+          "class": "collapse-button"
+        },
+        {
+          "name": "Aura Skin & Aesthetics",
+          "height": 13,
+          "class": "top-clinic-display"
+        },
+        {
+          "name": "Notifications",
+          "height": 29,
+          "class": "icon notification"
+        },
+        {
+          "name": "Quick create",
+          "height": 18,
+          "class": "quick-button"
+        },
+        {
+          "name": "Profile menu",
+          "height": 30,
+          "class": "profile"
+        },
+        {
+          "name": "Simulate device test",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Preview demo reminder",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "View integration notes",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Show connection status",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/dashboard",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Book appointment",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Dashboard date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Full schedule",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Search treatment queue",
+          "height": 29,
+          "class": ""
+        },
+        {
+          "name": "Queue status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Queue treatment",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Sitting 4 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 3 of 4 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 5 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Revenue date range",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View payments",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "View queue",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "View schedule",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/patients",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search patients",
+          "height": 31,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 34,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patients per page",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Previous patients page",
+          "height": 36,
+          "class": "icon"
+        },
+        {
+          "name": "Next patients page",
+          "height": 36,
+          "class": "icon"
+        }
+      ]
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient directory",
+          "height": 29,
+          "class": "text-button"
+        },
+        {
+          "name": "Edit details",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Archive patient",
+          "height": 38,
+          "class": "icon"
+        },
+        {
+          "name": "All courses",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "View course",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "Book sitting",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "View all",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Scan records",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Open latest report",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Compare scans",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "All visits",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Schedule",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Timeline",
+          "height": 25,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Compare scans",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "New scan",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search scan library",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Scan patient filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date from",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date to",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "RM\nRohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "patient-cell"
+        },
+        {
+          "name": "SCAN-2026-0844",
+          "height": 12,
+          "class": "scan-id-link"
+        },
+        {
+          "name": "PRP restoration",
+          "height": 16,
+          "class": "scan-course-link"
+        },
+        {
+          "name": "Open report",
+          "height": 36,
+          "class": "button secondary scan-mobile-report"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Register patient",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Demo analysis machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Capture area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Continue",
+          "height": 36,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Scan library",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Compare scans",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Doctor review",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 · 29 years · Dr. Aditi Sh",
+          "height": 36,
+          "class": "patient-cell"
+        },
+        {
+          "name": "Open review",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Back to report",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Cancel",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Save review notes",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Open full report",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "View linked course",
+          "height": 13,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← Scan library",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Comparison patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Comparison area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Baseline scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Follow-up scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Image view\nFront\nLeft oblique\nRight oblique\nDetail",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Open Ananya Sharma’s profile ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Baseline",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Follow-up",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Open source report ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Progress note doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Save Progress Note",
+          "height": 35,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/consultations",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New consultation",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search consultations",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Status\nAll\nDraft\nAwaiting Review\nReviewed",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatments",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Category\nAll\nLaser\nSkin concerns\nPeels\nFacial care",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Status\nActive\nInactive\nAll",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment plan",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatment plans",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Plan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Kavya Nair\nMM-1046",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← All treatment courses",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Pause",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Cancel course",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Complete course",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Book next sitting",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 | 29 years",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Clinic checks",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Open / prepare sitting",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Today",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Upcoming",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "In Progress",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Awaiting Review",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Completed",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Cancelled",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "No-show",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Search sessions",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Session date filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session status filter",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Session queue",
+          "height": 13,
+          "class": "text-button session-back"
+        },
+        {
+          "name": "Reschedule",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patient ID",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session number",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session treatment area",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Handpiece",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session operator",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session reviewing doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session room",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent document",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/appointments",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Today",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Search appointments",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/follow-ups",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search follow-ups",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Export",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Add record",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search Clinical Documents",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Record status",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add machine",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Dermapen 4",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "HydraFacial Elite",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Cryo Comfort",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Lumina IPL",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "Soprano ICE Platinum",
+          "height": 19,
+          "class": "text-link"
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/maintenance",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Create maintenance task",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/inventory",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add room",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 35,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/packages-billing",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/packages",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/payments",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/new",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax label 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax rate 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice discount",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/staff-roles",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/integrations",
+      "width": 390,
+      "scroll": 390,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Simulate device test",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Preview demo reminder",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "View integration notes",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Show connection status",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/dashboard",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Book appointment",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Dashboard date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Full schedule",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Search treatment queue",
+          "height": 29,
+          "class": ""
+        },
+        {
+          "name": "Queue status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Queue treatment",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Sitting 4 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 3 of 4 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 5 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Revenue date range",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View payments",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "View queue",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "View schedule",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/patients",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search patients",
+          "height": 31,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 34,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patients per page",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Previous patients page",
+          "height": 36,
+          "class": "icon"
+        },
+        {
+          "name": "Next patients page",
+          "height": 36,
+          "class": "icon"
+        }
+      ]
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient directory",
+          "height": 29,
+          "class": "text-button"
+        },
+        {
+          "name": "Edit details",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Archive patient",
+          "height": 38,
+          "class": "icon"
+        },
+        {
+          "name": "All courses",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "View course",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "Book sitting",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "View all",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Scan records",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Open latest report",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Compare scans",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "All visits",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Schedule",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Timeline",
+          "height": 25,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Compare scans",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "New scan",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search scan library",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Scan patient filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date from",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date to",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "RM\nRohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "patient-cell"
+        },
+        {
+          "name": "SCAN-2026-0844",
+          "height": 12,
+          "class": "scan-id-link"
+        },
+        {
+          "name": "PRP restoration",
+          "height": 16,
+          "class": "scan-course-link"
+        },
+        {
+          "name": "Open report",
+          "height": 38,
+          "class": "button secondary scan-mobile-report"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Register patient",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Demo analysis machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Capture area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Continue",
+          "height": 36,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Scan library",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Compare scans",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Doctor review",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 · 29 years · Dr. Aditi Sh",
+          "height": 36,
+          "class": "patient-cell"
+        },
+        {
+          "name": "Open review",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Back to report",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Cancel",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Save review notes",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Open full report",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "View linked course",
+          "height": 13,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← Scan library",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Comparison patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Comparison area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Baseline scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Follow-up scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Image view\nFront\nLeft oblique\nRight oblique\nDetail",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Open Ananya Sharma’s profile ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Baseline",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Follow-up",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Open source report ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Progress note doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Save Progress Note",
+          "height": 38,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/consultations",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New consultation",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search consultations",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Status\nAll\nDraft\nAwaiting Review\nReviewed",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatments",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Category\nAll\nLaser\nSkin concerns\nPeels\nFacial care",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Status\nActive\nInactive\nAll",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment plan",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatment plans",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Plan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Kavya Nair\nMM-1046",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← All treatment courses",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Pause",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Cancel course",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Complete course",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Book next sitting",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 | 29 years",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Clinic checks",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Open / prepare sitting",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Today",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Upcoming",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "In Progress",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Awaiting Review",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Completed",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Cancelled",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "No-show",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Search sessions",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Session date filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session status filter",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Session queue",
+          "height": 13,
+          "class": "text-button session-back"
+        },
+        {
+          "name": "Reschedule",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patient ID",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session number",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session treatment area",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Handpiece",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session operator",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session reviewing doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session room",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent document",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/appointments",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Today",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Search appointments",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/follow-ups",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search follow-ups",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Export",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Add record",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search Clinical Documents",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Record status",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add machine",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Dermapen 4",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "HydraFacial Elite",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Cryo Comfort",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Lumina IPL",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "Soprano ICE Platinum",
+          "height": 19,
+          "class": "text-link"
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/maintenance",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Create maintenance task",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/inventory",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add room",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/packages-billing",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/packages",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/payments",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/new",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax label 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax rate 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice discount",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/staff-roles",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/integrations",
+      "width": 360,
+      "scroll": 360,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Simulate device test",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Preview demo reminder",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "View integration notes",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Show connection status",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/dashboard",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Good morning, Dr. Mehta."
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Book appointment",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "Dashboard date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Full schedule",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Search treatment queue",
+          "height": 29,
+          "class": ""
+        },
+        {
+          "name": "Queue status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Queue treatment",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Sitting 4 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 3 of 4 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Sitting 5 of 6 · View course",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Revenue date range",
+          "height": 30,
+          "class": ""
+        },
+        {
+          "name": "View payments",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "View queue",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "View schedule",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/patients",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Patients"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search patients",
+          "height": 31,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 34,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patients per page",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Previous patients page",
+          "height": 36,
+          "class": "icon"
+        },
+        {
+          "name": "Next patients page",
+          "height": 36,
+          "class": "icon"
+        }
+      ]
+    },
+    {
+      "route": "/patients/MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Ananya Sharma"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON.",
+        "BUTTON."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient directory",
+          "height": 29,
+          "class": "text-button"
+        },
+        {
+          "name": "Edit details",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Archive patient",
+          "height": 38,
+          "class": "icon"
+        },
+        {
+          "name": "All courses",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "View course",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "Book sitting",
+          "height": 28,
+          "class": "text-button"
+        },
+        {
+          "name": "View all",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Scan records",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Open latest report",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Compare scans",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "All visits",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Schedule",
+          "height": 25,
+          "class": "text-button"
+        },
+        {
+          "name": "Timeline",
+          "height": 25,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Skin Analysis"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Compare scans",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "New scan",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "Search scan library",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Scan patient filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date from",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date to",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "RM\nRohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "patient-cell"
+        },
+        {
+          "name": "SCAN-2026-0844",
+          "height": 12,
+          "class": "scan-id-link"
+        },
+        {
+          "name": "PRP restoration",
+          "height": 16,
+          "class": "scan-course-link"
+        },
+        {
+          "name": "Open report",
+          "height": 38,
+          "class": "button secondary scan-mobile-report"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/new",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "New skin scan"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Register patient",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Demo analysis machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Scan date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Capture area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Cancel",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Continue",
+          "height": 36,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Full face analysis report"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Scan library",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Compare scans",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Doctor review",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 · 29 years · Dr. Aditi Sh",
+          "height": 36,
+          "class": "patient-cell"
+        },
+        {
+          "name": "Open review",
+          "height": 14,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/skin-analysis-1/review",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Doctor review"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Back to report",
+          "height": 14,
+          "class": "text-button scan-back"
+        },
+        {
+          "name": "Cancel",
+          "height": 37,
+          "class": "button secondary"
+        },
+        {
+          "name": "Save review notes",
+          "height": 37,
+          "class": "button primary"
+        },
+        {
+          "name": "Open full report",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "View linked course",
+          "height": 13,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/skin-analysis/compare?patient=MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Before & after comparison"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← Scan library",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Comparison patient",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Comparison area",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Baseline scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Follow-up scan",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Image view\nFront\nLeft oblique\nRight oblique\nDetail",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Open Ananya Sharma’s profile ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Baseline",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Follow-up",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Open source report ↗",
+          "height": 13,
+          "class": "text-button"
+        },
+        {
+          "name": "Progress note doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Save Progress Note",
+          "height": 38,
+          "class": "button primary"
+        }
+      ]
+    },
+    {
+      "route": "/consultations",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Consultations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New consultation",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search consultations",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Status\nAll\nDraft\nAwaiting Review\nReviewed",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Resume Draft",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open consultation",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-catalogue",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Treatment Catalogue"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatments",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Category\nAll\nLaser\nSkin concerns\nPeels\nFacial care",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Status\nActive\nInactive\nAll",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Treatment Plans"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "New treatment plan",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Search treatment plans",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Plan status filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 24,
+          "class": "text-button"
+        },
+        {
+          "name": "Ananya Sharma\nMM-1041",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Rohan Mehta\nMM-1042",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Meera Iyer\nMM-1045",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Priya Patel\nMM-1043",
+          "height": 34,
+          "class": "clinical-list-patient"
+        },
+        {
+          "name": "Open plan",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Kavya Nair\nMM-1046",
+          "height": 34,
+          "class": "clinical-list-patient"
+        }
+      ]
+    },
+    {
+      "route": "/treatment-plans/courses/course-MM-1041",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Laser Hair Reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "← All treatment courses",
+          "height": 12,
+          "class": "text-button"
+        },
+        {
+          "name": "Pause",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Cancel course",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Complete course",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Book next sitting",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "AS\nAnanya Sharma\nMM-1041 | 29 years",
+          "height": 34,
+          "class": "patient-cell"
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Sittings & Sessions"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Clinic checks",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Open / prepare sitting",
+          "height": 35,
+          "class": "button primary"
+        },
+        {
+          "name": "Today",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Upcoming",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "In Progress",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Awaiting Review",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Completed",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Cancelled",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "No-show",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Search sessions",
+          "height": 37,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 14,
+          "class": "text-button"
+        },
+        {
+          "name": "Session date filter",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session status filter",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/sittings-sessions/SESSION-APT-206",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Laser hair reduction"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Session queue",
+          "height": 13,
+          "class": "text-button session-back"
+        },
+        {
+          "name": "Reschedule",
+          "height": 35,
+          "class": "button secondary"
+        },
+        {
+          "name": "Patient ID",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session number",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session date",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session treatment area",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session machine",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Handpiece",
+          "height": 36,
+          "class": ""
+        },
+        {
+          "name": "Session operator",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session reviewing doctor",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session room",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent status",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Session consent document",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/appointments",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Appointments"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Today",
+          "height": 38,
+          "class": "button secondary"
+        },
+        {
+          "name": "Search appointments",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/follow-ups",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Follow-ups"
+      ],
+      "overflow": [
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN.",
+        "BUTTON.",
+        "SPAN."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Search follow-ups",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/clinical-documents",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Clinical Documents"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Export",
+          "height": 36,
+          "class": "button secondary"
+        },
+        {
+          "name": "Add record",
+          "height": 36,
+          "class": "button primary"
+        },
+        {
+          "name": "Search Clinical Documents",
+          "height": 34,
+          "class": ""
+        },
+        {
+          "name": "Record status",
+          "height": 37,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Machines & Equipment"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add machine",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Dermapen 4",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "HydraFacial Elite",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Cryo Comfort",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "MM Lumina IPL",
+          "height": 19,
+          "class": "text-link"
+        },
+        {
+          "name": "Soprano ICE Platinum",
+          "height": 19,
+          "class": "text-link"
+        }
+      ]
+    },
+    {
+      "route": "/machines-equipment/machines-equipment-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Soprano ICE Platinum"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/maintenance",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Maintenance"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Create maintenance task",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Update / clear",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/inventory",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Inventory"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/rooms-resources",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Rooms & Resources"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "+ Add room",
+          "height": 38,
+          "class": "button primary"
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Edit room / availability",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/packages-billing",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Packages & Billing"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/packages",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Packages"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/payments",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Payments"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/new",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Create invoice"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax label 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice tax rate 1",
+          "height": 38,
+          "class": ""
+        },
+        {
+          "name": "Invoice discount",
+          "height": 38,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/invoices/packages-billing-1",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "INV-2026-0841"
+      ],
+      "overflow": [
+        "A.",
+        "A."
+      ],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/leads-enquiries",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Leads & Enquiries"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/reports-analytics",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Reports & Analytics"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/staff-roles",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Staff & Roles"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Reset filters",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    },
+    {
+      "route": "/clinic-settings",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Clinic Settings"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        }
+      ]
+    },
+    {
+      "route": "/integrations",
+      "width": 320,
+      "scroll": 320,
+      "h1": [
+        "Integrations"
+      ],
+      "overflow": [],
+      "unlabelled": [],
+      "tiny": [
+        {
+          "name": "Close navigation",
+          "height": 30,
+          "class": "mobile-close icon"
+        },
+        {
+          "name": "Open help",
+          "height": 20,
+          "class": ""
+        },
+        {
+          "name": "Simulate device test",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Preview demo reminder",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "View integration notes",
+          "height": 36,
+          "class": "button"
+        },
+        {
+          "name": "Show connection status",
+          "height": 36,
+          "class": "button"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
